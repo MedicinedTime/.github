@@ -52,7 +52,7 @@
 
 ## **📡 아키텍처 구조**
 ### **🔹 전체 클라우드 아키텍처**
-![Architecture](https://github.com/profile/ProjectArchitecture.png)  
+![Architecture](https://github.com/MedicinedTime/.github/blob/main/profile/ProjectArchitecture.png)  
 
 1️⃣ **사용자 → Route53 & CloudFront**  
 2️⃣ **ALB (Application Load Balancer) → Auto Scaling (EC2)**  
