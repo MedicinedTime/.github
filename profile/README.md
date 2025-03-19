@@ -32,7 +32,7 @@
 ### **📌 Backend**
 - **FastAPI** - 경량 REST API 서버
 - **Spring Boot** - 핵심 서비스 로직 구현  
-- **PostgreSQL** - RDS 기반 데이터 저장  
+- **MySQL** - RDS 기반 데이터 저장  
 
 ### **📌 Frontend**
 - **React.js (Next.js)** - 사용자 친화적 웹 인터페이스  
@@ -57,7 +57,7 @@
 1️⃣ **사용자 → Route53 & CloudFront**  
 2️⃣ **ALB (Application Load Balancer) → Auto Scaling (EC2)**  
 3️⃣ **FastAPI / Spring Boot 서비스**  
-4️⃣ **RDS (PostgreSQL) 데이터베이스**  
+4️⃣ **RDS (MySQL) 데이터베이스**  
 5️⃣ **S3 (정적 파일 저장) 및 CloudFront (CDN)**  
 
 ---
